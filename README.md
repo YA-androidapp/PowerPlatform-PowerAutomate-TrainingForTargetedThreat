@@ -1,0 +1,2 @@
+# PowerPlatform-PowerAutomate-TrainingForTargetedThreat
+ 標的型攻撃に対する訓練を行うクラウドフロー
